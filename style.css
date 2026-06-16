@@ -23,7 +23,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: oklab(53.690000000000005% 0.16938 -0.11205 / 0.753);
     text-align: center;
     position: relative;
 }
